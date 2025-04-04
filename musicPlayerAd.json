@@ -14,7 +14,7 @@
       
       "BannerNetwork"      : "admob",
       "InterstitialNetwork": "admob",
-      "NativeNetwork"      : "admob",
+      "NativeNetwork"      : "facebook",
       
       "OpenAdNetwork"      : "admob",
       
