@@ -1,6 +1,6 @@
 {
   "AppRedirect": {
-    "status"     : false,
+    "status"     : true,
     "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
   },
   
@@ -37,7 +37,7 @@
     },
   
   "PopAdSetting": {
-    "showPop"  : true,
+    "showPop"  : false,
     "showClose": true,
     "adList": [
       {
