@@ -38,7 +38,7 @@
   
   "PopAdSetting": {
     "showPop"  : true,
-    "showClose": true,
+    "showClose": false,
     "adList": [
       {
         "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
