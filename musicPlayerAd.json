@@ -37,7 +37,7 @@
     },
   
   "PopAdSetting": {
-    "showPop"  : false,
+    "showPop"  : true,
     "showClose": true,
     "adList": [
       {
