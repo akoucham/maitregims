@@ -14,7 +14,7 @@
       
       "BannerNetwork"      : "admob",
       "InterstitialNetwork": "admob",
-      "NativeNetwork"      : "facebook",
+      "NativeNetwork"      : "admob",
       
       "OpenAdNetwork"      : "admob",
       
@@ -24,10 +24,10 @@
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-3147524971917133/3286043850",
+        "AdMobInterstitial"   : "ca-app-pub-3147524971917133/7939899883",
+        "AdMobNative"         : "ca-app-pub-3147524971917133/4415292694",
+        "AdMobOpenAd"         : "ca-app-pub-3147524971917133/5055217254",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
